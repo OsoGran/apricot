@@ -18,10 +18,3 @@
 ## Compiling and Installation
 To compile, run
 
-    make
-
-and then run,
-
-    sudo make install
-
-to install.
